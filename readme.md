@@ -8,12 +8,12 @@ The Fibonacci Sequence is a sequence in which each number is the sum of the two 
 
 1. create an function with one param.
 
-![Alt text](<../../images/carbon (1).png>)
+![function](https://github.com/10-6-pursuit/independent-study-project-example/assets/145965056/3fb83e93-07b4-4a9b-811a-108aba6d0618)
 
 2. We will create an array to put the first two numbers of the FS 0,1.
 
-![Alt text](<../../images/Carbon Array.png>)
+![array](https://github.com/10-6-pursuit/independent-study-project-example/assets/145965056/1711b250-60c6-4fb7-bf5a-46eb20866eb6)
 
 3.We will need to generate the remaining elements from the 3rd index because we already have the first 2 in the array.
 
-![Alt text](<../../images/full code.png>)
+![carbon(1)](https://github.com/10-6-pursuit/independent-study-project-example/assets/145965056/8cea7c93-be83-41fd-af0c-5e83746e9a7e)
