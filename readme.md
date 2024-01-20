@@ -24,9 +24,6 @@ The Fibonacci Sequence is a sequence in which each number is the sum of the two 
 
 ![Time complexity](https://github.com/10-6-pursuit/independent-study-project-example/assets/145965056/e9accc82-51fa-46b3-b717-004b61b18021)
 
-### Space Complexity
-
-
 ## Use Cases
 
 The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1. Fibonacci sequence algorithms have various use cases in computer science and mathematics. Here are some common use cases:
