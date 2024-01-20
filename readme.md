@@ -108,7 +108,11 @@ Testing these edge cases helps ensure the correctness, robustness, and efficienc
 ## Citations
 
 [CsDojo](https://www.youtube.com/watch?v=D6xkbGLQesk)
+
 [SciShow](https://www.youtube.com/watch?v=wTlw7fNcO-0)
+
 [LiveScience](https://www.livescience.com/37470-fibonacci-sequence.html)
+
 [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence)
+
 [ChatGPT](https://chat.openai.com/c/d8b72438-1c49-4b44-bf1b-75207d239b5f)
