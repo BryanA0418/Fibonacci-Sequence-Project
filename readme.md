@@ -26,3 +26,18 @@ The Fibonacci Sequence is a sequence in which each number is the sum of the two 
 
 ### Space Complexity
 
+
+## Use Cases
+
+!
+
+## Edge Cases
+
+!
+
+## Citations
+
+[CsDojo](https://www.youtube.com/watch?v=D6xkbGLQesk)
+[SciShow](https://www.youtube.com/watch?v=wTlw7fNcO-0)
+[LiveScience](https://www.livescience.com/37470-fibonacci-sequence.html)
+[Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence)
